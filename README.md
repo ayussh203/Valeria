@@ -2,6 +2,8 @@
 
 The absence of constant access to real-life therapists or friends, a pressing issue arises as individuals lack a 24/7 platform to express and address their mental health concerns, emphasizing the need for a reliable and accessible support system.
 his gap highlights the need for a reliable and accessible platform that can offer timely support, understanding, and guidance to individuals navigating their mental health journey during moments when traditional support structures are unavailable.
+
+
 **WORKFLOW**
 ![image](https://github.com/ayussh203/Valeria/assets/131508811/0e4a6a57-e991-45cd-9a2f-19b2d4b23cf9)
 
