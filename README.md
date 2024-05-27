@@ -2,6 +2,7 @@
 
 The absence of constant access to real-life therapists or friends, a pressing issue arises as individuals lack a 24/7 platform to express and address their mental health concerns, emphasizing the need for a reliable and accessible support system.
 his gap highlights the need for a reliable and accessible platform that can offer timely support, understanding, and guidance to individuals navigating their mental health journey during moments when traditional support structures are unavailable.
+
 **WORKFLOW**
 ![image](https://github.com/ayussh203/Valeria/assets/131508811/0e4a6a57-e991-45cd-9a2f-19b2d4b23cf9)
 
@@ -12,3 +13,14 @@ his gap highlights the need for a reliable and accessible platform that can offe
 ![Screenshot 2024-05-27 232841](https://github.com/ayussh203/Valeria/assets/131508811/60f758b9-fe90-4409-9433-69bf0873ff1a)
 ![Screenshot 2024-05-27 232943](https://github.com/ayussh203/Valeria/assets/131508811/ef51d7ac-6e9a-4ca8-8060-f2189a8f97de)
 **
+Technologies and Algorithms:
+
+NLP for Conversational Understanding: Uses intent recognition, sentiment analysis, and named entity recognition (NER) to understand and respond to user queries empathetically.
+SDLC Integration:
+
+Planning and Design: Gathered requirements, created a detailed specification document, and designed empathetic conversational models with a user-friendly interface.
+Implementation, Testing, and Maintenance: Developed the application, conducted rigorous testing, and continuously monitored and improved the system for reliability and efficiency.
+
+
+
+
